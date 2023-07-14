@@ -1,5 +1,4 @@
 # notes-app-api
-# Django Project Readme
 
 This readme provides an overview and instructions for setting up and running the Django project. It includes information on project structure, dependencies, installation, configuration, and usage.
 
